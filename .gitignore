@@ -5,3 +5,4 @@ data/
 !sample_data/*.npy
 !sample_data/*.npy
 !sample_data/*.tif
+!sample_data/*.tif

@@ -3,3 +3,5 @@ data/
 *.tif
 *.npy
 !sample_data/*.npy
+!sample_data/*.npy
+!sample_data/*.tif

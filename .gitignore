@@ -1,0 +1,5 @@
+# ignore raw/full datasets
+data/
+*.tif
+*.npy
+!sample_data/*.npy

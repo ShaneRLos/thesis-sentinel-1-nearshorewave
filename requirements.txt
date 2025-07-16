@@ -1,0 +1,10 @@
+numpy
+rasterio
+requests
+spyndex
+netCDF4
+pandas
+os
+xarray
+tensorflow
+scikit-learn
